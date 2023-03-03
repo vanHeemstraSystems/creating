@@ -1,5 +1,5 @@
-learning
-# Learning
+creating
+# Creating
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
 
@@ -13,9 +13,9 @@ Based on "Portfolio" at https://observablehq.com/@trebor/portfolio
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Learning" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
+Can be read as "Creating" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
 
-Can be browsed as "Learning" at https://vanheemstrasystems.github.io/learning/
+Can be browsed as "Creating" at https://vanheemstrasystems.github.io/creating/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
@@ -27,7 +27,7 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 300 - Learning Our Subject
+## 300 - Creating Our Product
 
 See [README.md](./300/README.md)
 
