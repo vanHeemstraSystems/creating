@@ -3,6 +3,8 @@
 creating
 # Creating
 
+![My animated logo](assets/my-logo.svg)
+
 == Creating is the counterpart of Learning, like Jin and Jang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
