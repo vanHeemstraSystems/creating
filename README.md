@@ -3,7 +3,7 @@
 creating
 # Creating
 
-![animated logo](assets/logo.svg)
+![yin yang](assets/yin_yang.svg)
 
 == Creating is the counterpart of Learning, like Jin and Jang ==
 
