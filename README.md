@@ -3,7 +3,7 @@
 creating
 # Creating
 
-![yin yang](assets/yin_yang.svg)
+<img width="240" height="240" alt="Yin Yang" src="https://raw.githubusercontent.com/vanHeemstraSystems/creating/main/assets/yin_yang.svg">
 
 == [Creating](https://github.com/vanHeemstraSystems/creating/) is the counterpart of [Learning](https://github.com/vanHeemstraSystems/learning/), like Jin and Jang ==
 
