@@ -3,7 +3,7 @@
 creating
 # Creating
 
-<div style="width: 60%; height: 60%>
+<div style="width: 60%; height: 60%">
 ![yin yang](assets/yin_yang.svg)
 </div>
 
