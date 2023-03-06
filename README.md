@@ -5,7 +5,7 @@ creating
 
 <img width="240" height="240" alt="Yin Yang" src="https://raw.githubusercontent.com/vanHeemstraSystems/creating/main/assets/yin_yang.svg">
 
-== [Creating](https://github.com/vanHeemstraSystems/creating/) is the counterpart of [Learning](https://github.com/vanHeemstraSystems/learning/), like Jin and Jang ==
+== [Creating](https://github.com/vanHeemstraSystems/creating/) is the counterpart of [Learning](https://github.com/vanHeemstraSystems/learning/), like Yin and Yang ==
 
 Based on "Hacking Knowledge" https://oedb.org/ilibrarian/hacking-knowledge/
 
