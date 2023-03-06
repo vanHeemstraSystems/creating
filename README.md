@@ -17,7 +17,7 @@ Based on "Portfolio" at https://observablehq.com/@trebor/portfolio
 
 Based on "Github Basic Kanban" at https://github.com/vanHeemstraSystems/github-basic-kanban
 
-Can be read as "Creating" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/quwM6FgG3FcADTsy3XGb/
+Can be read as "Creating" at https://app.gitbook.com/o/QGgiJiNkwpv437Z2nY4O/s/55lcYjQ1bco6VVubpJaw/
 
 Can be browsed as "Creating" at https://vanheemstrasystems.github.io/creating/
 
